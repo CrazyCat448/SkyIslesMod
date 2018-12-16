@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sim",
+  "name": "Sky Isles Mod",
+  "description": "Enter the fantastic world of the Sky Isles!",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CrazyCat"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
